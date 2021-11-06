@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is CC70-81B3
-
- Directory of C:\Users\acer\Desktop\Myprojects
-
-06/11/2021  05:43    <DIR>          .
-06/11/2021  05:43    <DIR>          ..
-06/11/2021  05:43                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  914,180,386,816 bytes free
+ change 1
